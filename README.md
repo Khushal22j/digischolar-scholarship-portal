@@ -17,7 +17,7 @@ A full-stack web application built using **Firebase** and **Vanilla JavaScript**
 
 ## 🛠️ Tech Stack
 
-- HTML5, CSS3, JavaScript
+- ReactJs, CSS3, JavaScript
 - Firebase Authentication
 - Firebase Realtime Database
 - Firebase Storage
